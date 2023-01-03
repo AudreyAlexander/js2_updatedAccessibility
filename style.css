@@ -1,0 +1,22 @@
+a:link {
+    background-color: rgb(222, 245, 253);
+    text-align:center;
+    color:black;
+    margin: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: white;
+}
+body {
+    background-color:rgb(247, 239, 213);
+    font-size: large;
+}
+h1{
+    color: maroon;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
